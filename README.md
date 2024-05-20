@@ -14,7 +14,7 @@ My commitment to excellence is underscored by certifications like the freeCodeCa
 | Name                | Description                                                               |Repo Link           ||
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **TuneHub** | TuneHub is a online music streaming platform.The admin user can add songs and create playlists while the customer can explore songs .The users need to register, login and make payment to access functionalities.                                              | [Repo Link 1](https://github.com/Anusha-Suresh-VM/TuneHub-Application-full-stack-)                 |
-| **Hungryfy**  | Hungryfy is a full-stack web application that allows users to order food from restaurants.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/Hungryfy)             |
+| **Hungryfy**  | Hungryfy is a full-stack web application that allows users to order food from restaurants.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/Hungryfy/tree/master)             |
 
 #### Leadership and Influence:
 
