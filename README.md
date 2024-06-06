@@ -14,9 +14,7 @@ My commitment to excellence is underscored by certifications like the freeCodeCa
 | Name                | Description                                                               |Repo Link           ||
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **TuneHub** | TuneHub is a online music streaming platform.The admin user can add songs and create playlists while the customer can explore songs .The users need to register, login and make payment to access functionalities.                                              | [Repo Link 1](https://github.com/Anusha-Suresh-VM/TuneHub-Application-full-stack-)                 |
-| **ShopMate**  |  ShopMate is a full stack E-commerce Website.Managed product listings, shopping carts, and order processing.
- Implemented a product catalog and search functionality.
- Designed and built a user-friendly shopping cart and checkout system.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/ShopMate)             |
+| **ShopMate**  |  ShopMate is a full stack E-commerce Website.Managed product listings, shopping carts, and order processing.Implemented a product catalog and search functionality.Designed and built a user-friendly shopping cart and checkout system.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/ShopMate)             |
 
 #### Leadership and Influence:
 
