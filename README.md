@@ -3,7 +3,7 @@
 ### About Me
 
 > Hi, I'm Anusha Suresh VM, a engineering graduate of Electronics and Communication Engineering from Government Engineering College Wayanad with a notable CGPA of 8.03. I embarked on a journey to merge my technical acumen with real-world challenges. Following my graduation in 2023, I delved into the dynamic realm of software development as an intern at Kodnest Technologies Pvt Ltd, Bangalore, honing my skills in Java, Spring Boot, Hibernate, JDBC, HTML, CSS, React JS, JavaScript, MySQL, and Python.My professional journey has been marked by hands-on experiences that have honed my problem-solving skills, active listening abilities, and adaptability. As a team player, I played a key role in developing the software component of projects like the Wildlife Monitoring System, which utilized Python-based deep learning algorithms alongside hardware integration for wildlife detection.
-Beyond internships, I've spearheaded innovative projects like TuneHub, an online music streaming platform, and Hungryfy, a full-stack web application for food ordering. These ventures showcase my proficiency in technologies including Java Spring Boot, Thymeleaf, HTML, CSS, JavaScript, React JS, Python, Django, MySQL, and Bootstrap.
+Beyond internships, I've spearheaded innovative projects like TuneHub, an online music streaming platform, and ShopMate, a full stack E-commerce Website. These ventures showcase my proficiency in technologies including Java Spring boot, React.js, MySQL, MUI, and Tailwind CSS.
 My commitment to excellence is underscored by certifications like the freeCodeCamp Responsive Web Design Developer Certification. Additionally, I've been recognized for my achievements, including qualification in top-tier hackathons such as .hack(); 2021 and YIP 2020, as well as being shortlisted in the Reboot Kerala Hackathon's top 15 teams.
 
 
@@ -14,7 +14,9 @@ My commitment to excellence is underscored by certifications like the freeCodeCa
 | Name                | Description                                                               |Repo Link           ||
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
 | **TuneHub** | TuneHub is a online music streaming platform.The admin user can add songs and create playlists while the customer can explore songs .The users need to register, login and make payment to access functionalities.                                              | [Repo Link 1](https://github.com/Anusha-Suresh-VM/TuneHub-Application-full-stack-)                 |
-| **Hungryfy**  | Hungryfy is a full-stack web application that allows users to order food from restaurants.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/Hungryfy/tree/master)             |
+| **ShopMate**  |  ShopMate is a full stack E-commerce Website.Managed product listings, shopping carts, and order processing.
+ Implemented a product catalog and search functionality.
+ Designed and built a user-friendly shopping cart and checkout system.                                      | [Repo Link 2](https://github.com/Anusha-Suresh-VM/ShopMate)             |
 
 #### Leadership and Influence:
 
